@@ -6,15 +6,17 @@ My notes will be stored in this txt document to plan and conceptualize this sill
 
 NOTES:
 
-- Game inspired by flappy bird, pong, and brick breaker.
+- possible game title: "This Extincts!" or "Dino Doom" or
 
-- The theme/aesthetic of the game is retro/psychedelic/space aliens???
+- dinosaur tries to dodge falling asteroids
+
+- The theme/aesthetic of the game is retro/space/dinosaurs ???
 
 - Color pallate: Double Split Complementary (Adobe Color)
-    dark purple, green, yellow-orange, blue, red
+    dark purple, green, yellow-orange, red
 
 -Concept Ideas:
-    Player enters a portal to alien realm
+    Player enters a portal to dinosaur realm in space??
    
 - Music:
-    retro synth, goa-psytrance EDM
+    retro synth, goa-psytrance EDM, dino synth? lol
