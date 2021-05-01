@@ -1,1 +1,20 @@
+Hello!
 
+This is my first time coding a game. It's going to be very simple and inspired by already existing games.
+My notes will be stored in this txt document to plan and conceptualize this silly game.
+
+
+NOTES:
+
+- Game inspired by flappy bird, pong, and brick breaker.
+
+- The theme/aesthetic of the game is retro/psychedelic/space aliens???
+
+- Color pallate: Double Split Complementary (Adobe Color)
+    dark purple, green, yellow-orange, blue, red
+
+-Concept Ideas:
+    Player enters a portal to alien realm
+   
+- Music:
+    retro synth, goa-psytrance EDM
