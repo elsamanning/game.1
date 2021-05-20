@@ -1,3 +1,4 @@
+// falling asteroids
 class Asteroid{
   PImage[] gif;
   int currentPic = 0;
@@ -31,7 +32,5 @@ class Asteroid{
     if (currentPic > 2) {
       currentPic = 0;
     }
-    //fill(0, 102, 0);
-    //rect(xCor, yCor, w, h, 5);
   }
 }
