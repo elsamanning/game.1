@@ -22,19 +22,16 @@ class star {
   }
   
   void show() {
+    strokeWeight(1);
     fill(255);
-    //noStroke();
     float sx = map(x / z, 0, 1, 0, width);
     float sy = map(y / z, 0, 1, 0, height);
     float r = map(z,0, width, 10, 0);  // makes  stars get bigger as they move closer (size 0 to size 16)
-    //ellipse(sx,sy,r,r);
-    
     float px = map(x / pz, 0, 1, 0, width);
     float py = map(y / pz, 0, 1, 0, height);
     pz = z;
     stroke(255);
     line(px, py, sx, sy);
 
-  }
-    
+  }   
 }
